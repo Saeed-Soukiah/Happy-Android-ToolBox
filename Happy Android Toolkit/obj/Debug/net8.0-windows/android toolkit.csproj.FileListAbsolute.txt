@@ -1,0 +1,18 @@
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android_toolkit.Form1.resources
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.csproj.GenerateResource.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.AssemblyInfoInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.AssemblyInfo.cs
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.exe
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.deps.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.runtimeconfig.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\refint\android toolkit.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android toolkit.genruntimeconfig.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\ref\android toolkit.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\bin\Debug\net8.0-windows\android toolkit.dll.config
+C:\Users\Saeed Soukiah\Documents\Visual Studio\android toolkit\obj\Debug\net8.0-windows\android_toolkit.Properties.Resources.resources
